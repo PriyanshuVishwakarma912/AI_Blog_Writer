@@ -1,0 +1,11 @@
+# Required python libraries to install 
+streamlit
+pandas
+langchain
+langgraph
+pydantic
+huggingface_hub
+langchain_huggingface 
+tavily-python
+python-dotenv
+langchain-community
