@@ -378,10 +378,10 @@ We welcome contributions! Here's how to help:
 ### Steps to Contribute
 
 1. **Fork** the repository
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
+2. **Create a feature branch**: `git checkout -b feature/new-feature`
 3. **Make your changes** and test thoroughly
-4. **Commit**: `git commit -m 'Add amazing feature'`
-5. **Push**: `git push origin feature/amazing-feature`
+4. **Commit**: `git commit -m 'Add new feature'`
+5. **Push**: `git push origin feature/new-feature`
 6. **Open a Pull Request** with detailed description
 
 ### Areas for Contribution
@@ -400,21 +400,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Priyanshu Vishwakarma**
-- GitHub: [@PriyanshuVishwakarma912](https://github.com/PriyanshuVishwakarma912)
-- Repository: [AI_Blog_Writer](https://github.com/PriyanshuVishwakarma912/AI_Blog_Writer)
-
----
-
-## 🙋 Support & Questions
-
-- 📖 Check the [Troubleshooting](#troubleshooting) section
-- 🐛 Open an [Issue](https://github.com/PriyanshuVishwakarma912/AI_Blog_Writer/issues) for bugs
-- 💡 Use [Discussions](https://github.com/PriyanshuVishwakarma912/AI_Blog_Writer/discussions) for questions
-
----
 
 ## 🎉 Acknowledgments
 
@@ -426,18 +411,3 @@ Built with:
 - [Tavily AI](https://tavily.com/) - Web research API
 
 ---
-
-## 📊 Project Stats
-
-- **Language**: Python 100%
-- **Created**: April 2026
-- **Status**: Active & Maintained
-- **Last Updated**: April 28, 2026
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/PriyanshuVishwakarma912">Priyanshu Vishwakarma</a>
-  <br>
-  <a href="https://github.com/PriyanshuVishwakarma912/AI_Blog_Writer">⭐ Star this repository</a> if you find it useful!
-</p>
